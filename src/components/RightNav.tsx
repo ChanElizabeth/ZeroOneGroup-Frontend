@@ -7,6 +7,7 @@ type Props = {
   open: boolean;
 }
 
+// Right navbar function
 function RightNav(props: Props) {
 
   return (

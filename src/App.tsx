@@ -1,7 +1,6 @@
 
 import React, { FC } from 'react';
 import './App.css';
-// import Sidebar from './components/Sidebar';
 import { HashRouter as Router} from 'react-router-dom';
 
 import TopnavBar from './components/TopnavBar';

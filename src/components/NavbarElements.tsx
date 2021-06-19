@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 import {SidebarItem} from '../models/SidebarItem';
 
+// this file contain the elements of the hamburger menu, the nav, the ul (list of the menus in right side nav), the logo in the top nav bar, and the logo in right side nav
+
 export const StyledBurger = styled.div<SidebarItem>`
   width: 2rem;
   height: 2rem;

@@ -1,8 +1,6 @@
 import { FC } from 'react';
 
-export const Overview: FC = () => {
-    return <div className="overview">Overview</div>;
-};
+// the pages direct to when clicking the menus
 
 export const Menu1: FC = () => {
     return <div className="overview">Menu 1</div>;

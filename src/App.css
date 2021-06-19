@@ -10,6 +10,7 @@ body{
   background-color: #EAE9E9;
 }
 
+/* the pages style */
 .overview {
   display: flex;
   justify-content: center;
