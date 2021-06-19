@@ -1,7 +1,7 @@
 import React from 'react'
 import * as S from './NavbarElements';
 import { Menu1, Menu2, Menu3 } from '../pages/Overview';
-import { BrowserRouter as Router, Switch, Route, NavLink } from "react-router-dom";
+import { HashRouter as Router, Switch, Route, NavLink } from "react-router-dom";
 
 type Props = {
   open: boolean;
@@ -10,7 +10,7 @@ type Props = {
 function RightNav(props: Props) {
 
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename='/'>
       <S.Ul open={props.open}>
         <S.LogoUl src={require('../images/logoz.png').default} alt={'Gustavo Scarpim'} />
 
