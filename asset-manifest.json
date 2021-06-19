@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zeroonegroup-menubar/static/css/main.c43aa852.chunk.css",
+    "main.js": "/zeroonegroup-menubar/static/js/main.6131ab6f.chunk.js",
+    "main.js.map": "/zeroonegroup-menubar/static/js/main.6131ab6f.chunk.js.map",
+    "runtime-main.js": "/zeroonegroup-menubar/static/js/runtime-main.096b85a7.js",
+    "runtime-main.js.map": "/zeroonegroup-menubar/static/js/runtime-main.096b85a7.js.map",
+    "static/js/2.5a86d26a.chunk.js": "/zeroonegroup-menubar/static/js/2.5a86d26a.chunk.js",
+    "static/js/2.5a86d26a.chunk.js.map": "/zeroonegroup-menubar/static/js/2.5a86d26a.chunk.js.map",
+    "static/js/3.1fda884b.chunk.js": "/zeroonegroup-menubar/static/js/3.1fda884b.chunk.js",
+    "static/js/3.1fda884b.chunk.js.map": "/zeroonegroup-menubar/static/js/3.1fda884b.chunk.js.map",
+    "index.html": "/zeroonegroup-menubar/index.html",
+    "static/css/main.c43aa852.chunk.css.map": "/zeroonegroup-menubar/static/css/main.c43aa852.chunk.css.map",
+    "static/js/2.5a86d26a.chunk.js.LICENSE.txt": "/zeroonegroup-menubar/static/js/2.5a86d26a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.096b85a7.js",
+    "static/js/2.5a86d26a.chunk.js",
+    "static/css/main.c43aa852.chunk.css",
+    "static/js/main.6131ab6f.chunk.js"
+  ]
+}
