@@ -7,7 +7,7 @@ export const StyledBurger = styled.div<SidebarItem>`
   width: 2rem;
   height: 2rem;
   position: fixed;
-  top: 15px;
+  top: 28px;
   right: 20px;
   z-index: 20;
   display: none;
