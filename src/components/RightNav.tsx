@@ -10,7 +10,7 @@ type Props = {
 function RightNav(props: Props) {
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <S.Ul open={props.open}>
         <S.LogoUl src={require('../images/logoz.png').default} alt={'Gustavo Scarpim'} />
 

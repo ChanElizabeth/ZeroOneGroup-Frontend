@@ -8,7 +8,7 @@ import TopnavBar from './components/TopnavBar';
 
 const App: FC = () => {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <TopnavBar/>
         </Router>
     );
