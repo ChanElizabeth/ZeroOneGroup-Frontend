@@ -1,6 +1,6 @@
 {
-  "homepage": "http://chanelizabeth.github.io/zeroonegroup-menubar",
-  "name": "zeroonegroup-menubar",
+  "homepage": "http://chanelizabeth.github.io/ZeroOneGroup-Frontend",
+  "name": "zeroonegroup-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
